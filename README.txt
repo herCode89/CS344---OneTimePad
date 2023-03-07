@@ -16,8 +16,6 @@ cited work:
 
 URL: https://en.wikipedia.org/wiki/One-time_pad
 
-As Approved by Professor and was used due to the time at night and no TAs- ChatGPT
-
 URL: https://man7.org/linux/man-pages/man3/rand.3.html
 CODE: NAME         top
        rand, rand_r, srand - pseudo-random number generator
